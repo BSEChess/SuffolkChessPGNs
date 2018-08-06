@@ -1,0 +1,83 @@
+[Event "Northumbria Masters"]
+[Site "?"]
+[Date "2017.02.18"]
+[Round "9"]
+[White "Storey, Charles"]
+[Black "Player, Edmund."]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2250"]
+[BlackElo "2172"]
+[PlyCount "76"]
+[SourceDate "2017.12.13"]
+[SourceVersionDate "2017.12.13"]
+
+1. e4 e6 {The French Defence.} 2. d4 d5 3. Nd2 {The Tarrasch Variation. Now
+there are many options for Black, including 3...Nf6 (the Botvinnik Variation)
+and 3...Be7, as well as the less common moves: 3...a6 and 3...h6. However,
+I've been opting for the open game more recently.} c5 4. exd5 Qxd5 (4... exd5 {
+This recapture results in a classic isolated queen pawn (IQP) position and was
+played seven times by Korchnoi against Karpov in a 1974 World Championship
+Candidates Final match. All seven games resulted in a draw!}) 5. Ngf3 cxd4 6.
+Bc4 Qd7 $5 {This is currently in fashion. The idea is to delay the development
+of the kingside knight, so that it has the option of travelling to g6 via e7,
+providing a more solid defence against any attack White might throw at the
+Black King.} (6... Qd6 {is the main line.}) 7. O-O Nc6 8. Nb3 a6 9. Nbxd4 (9.
+a4 $5 {is also playable. White can aim to play Qe2, followed by Rd1, capturing
+the d4 pawn with more force.}) 9... Nxd4 10. Nxd4 Qc7 11. Bd3 $5 (11. Bb3 Bd6
+12. h3 (12. Qh5 {Now both knight moves are possible.} Nf6 (12... Ne7 13. c3 O-O
+14. Rd1 Rd8 (14... g6 $2 15. Qh4 e5 $4 16. Bh6 {threatening Qf6.}) 15. Bc2 g6
+16. Qh4 e5 17. Nf3 Nf5 18. Bxf5 Bxf5 19. Bg5 Re8 20. Rd5 {should be ok,
+although Black's pawn structure and pieces don't feel as coordinated as
+White's.}) 13. Qh4 {Despite the computer engine saying that this position is
+equal, Rublevsky has had success with the White pieces here on three occasions.
+Although Rublevsky's success is probably partly down to the fact that on paper
+he outgraded his opponents, it is also probably partly due to the cramped
+positions Black ends up in, improving White's practical chances.} Bd7 14. Bg5
+h6 $1 (14... Be5 $2 15. Rad1 h6 $2 16. f4 {1-0 (35) Rublevsky,S (2702)
+-Bluebaum,M (2588) Berlin 2015}) 15. Bxf6 gxf6 16. Rad1 (16. Qxf6 $2 Bxh2+ 17.
+Kh1 Be5 $15) 16... Be7 (16... O-O-O $5 17. Qxf6 Bxh2+ 18. Kh1 Qf4 19. Qe7 Qg5
+20. Qxf7 Rhg8 21. Qf3 (21. g3 $4 Bxg3 22. fxg3 Qxg3 $19) 21... Be5 $44 22. Qh3
+Qg4 23. Qxg4 Rxg4 24. Nxe6 (24. Nf3 Bxb2 $11) 24... Rh4+ $11) 17. Rfe1 O-O-O
+$11) 12... Ne7 13. c3 O-O 14. Qh5 e5 15. Nf3 Bf5 16. Bg5 Bd3 17. Bxe7 Qxe7 18.
+Rfe1 Bg6 {1/2-1/2 (18) Sjugirov,S (2653)-Lupulescu,C (2618) Baku 2016}) (11.
+Qe2 Bd6 12. h3 Ne7 $11) 11... Bd6 12. h3 (12. Qh5 $5 Nf6 13. Qg5 Bxh2+ 14. Kh1
+Be5 15. Nf3 Nd7 16. Nxe5 Qxe5 {White has compensation for the pawn, but
+nothing more than that.}) 12... Ne7 13. Re1 O-O (13... e5 $1 14. Nf3 O-O $11 {
+would have been fine for me.}) 14. Qh5 {I saw this coming.} Ng6 15. Nf3 Qc5 {
+I thought for half an hour about this move as I couldn't find a plan against
+16.Qg4.} 16. Bxg6 $2 {Charlie played this almost immediately, which took me
+totally by surprise.} (16. Qg4 $14 {Pretty much anything Black plays here
+results in a good game for White where Black has to contend with many nasty
+tactical ideas.} Bd7 (16... Qc7 17. Ng5 h6 18. Bxg6 hxg5 19. Bd3 {is good for
+White.}) (16... Rd8 17. Bg5 Re8 18. Rad1 {is also good for White.}) 17. Be3 Qc7
+18. Rad1 $14 {with ideas of Ng5 and Qh5, weakening the Black King.}) (16. Qxc5
+Bxc5 17. Bd2 {was another option for White.}) 16... hxg6 17. Qxc5 Bxc5 18. Be3
+Bxe3 (18... Be7 19. Ne5) 19. fxe3 $5 {Nor was I expecting this method of
+recapturing. Despite the weakend pawn structure, taking with the pawn didn't
+turn out as badly for White as I first thought it would.} Rd8 (19... f6 $1 20.
+Rad1 e5 21. Rd6 Kf7 {with ...Be6 to follow, would have been more efficient.})
+20. Red1 Bd7 21. Rd4 Kf8 22. Rad1 Ke7 23. Kf2 f6 24. e4 e5 25. Rd6 Bc6 (25...
+Rac8 {Why not add this move in, before thinking about exchanging everything
+off! Now Black also has the option to play ...Rc7 followed by ...Rdc8.}) 26.
+Rxd8 Rxd8 27. Rxd8 Kxd8 28. Ke3 g5 {At this point I felt that I'd played the
+endgame pretty well, planting my pawns on opposite coloured squares to my
+remaining bishop.} 29. c4 g4 $6 {Too clever! I was short of time and foolishly
+sensed a chance to win by attempting to tie up White's knight and King.
+Although Black should still be fine, it turns out that White's extra pawn and
+Black's resulting weakness on f6, give White the only winning chances.} (29...
+Ke7 {is just totally equal.}) 30. hxg4 g5 31. Ne1 Bd7 32. Kf3 Be6 33. b3 b5 {
+playing actively is vital now.} 34. cxb5 axb5 35. Nc2 Kd7 36. Ne3 Kc6 37. Nf5
+Kc5 $2 {Another bad move! I came close to giving this a double question mark
+as making a draw is now very tricky.} (37... b4 {is totally drawn.}) 38. Ng7 $1
+b4 $4 {A horrific blunder. Here I resigned after Charlie shrugged his
+shoulders politely.} ({Before I mistakenly picked up the wrong piece, I
+intended to play} 38... Bd7 {but things would have probably ended badly anyway,
+since there are lots of ways for Black to go wrong, for example:} 39. Nh5 Bc6
+40. Nxf6 Kd4 41. Nd5 Bd7 42. Ne7 Kc3 43. Nd5+ Kd4 44. a3 Kd3 45. Ne7 Kc3 46. b4
+Kb3 47. Ng6 Kxa3 48. Nxe5 Bc8 $1 {the bishop is safe here.} (48... Be8 $4 49.
+Nd3 Kb3 50. Ke3 Kc4 51. g3 {Zugswang! If the bishop moves to a vacant square
+White lands the knight on e5 with check!} Kc3 52. e5 Kc4 53. e6 Kd5 54. Nc5 $18
+{the end is nigh...}) (48... Be6 $4 49. Nd3 Bc4 50. Ke3 $18) 49. Nd3 Kb3 50.
+Ke3 Kc4 51. e5 Bxg4 52. Nf2 Bf5 53. Ne4 Kxb4 54. Kd4 Ka3 55. Nd6 Bd7 56. Kc5
+Ka4 $11 (56... b4 $4 57. Nc4+ $18)) 1-0
