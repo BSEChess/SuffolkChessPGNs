@@ -18,6 +18,7 @@ Where you want the player to appear, add the following tag:
 
 Alternatively, you can omit the data-url property and include the entire PGN text like this:
 
+<code>
   <div class="cbreplay">
     [Event "Corus"]
     [Site "Wijk aan Zee"]
@@ -30,7 +31,7 @@ Alternatively, you can omit the data-url property and include the entire PGN tex
     6. a3 Bxd2+ 7. Nxd2 Bb7 8.Nf3 d5 9. cxd5 Bxd5 10. Bg2 O-O 11. O-O Nbd7
     12. Bf4 c5 13. dxc5 1/2-1/2
   </div>
-
+</code>
 
 By the Way
 ==========
