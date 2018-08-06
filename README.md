@@ -1,5 +1,5 @@
 # SuffolkChessPGNs
-PGN files for the using on the website: suffolkchess.org.uk
+PGN files for the using on the website: www.suffolkchess.org.uk
 
 The PGN files in this repository are for use on the Suffolk Chess Website.
 That website plays the PGN files using the ChessBase PGN Player
