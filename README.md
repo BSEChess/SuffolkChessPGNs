@@ -11,7 +11,7 @@ Details of the player are available here: https://schach.de/howto/embedtools
 How include whole games
 =======================
 
-Where you want the player to appear, add the following tag:
+Making sure that the URL you use points to the "raw" version of the file (if it's here in Github the address will begin "https://raw."), where you want the player to appear, add the following tag:
 
     <div class="cbreplay" data-url="Path/to/PGN/File.pgn">
     </div>
