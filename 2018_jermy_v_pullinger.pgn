@@ -1,0 +1,66 @@
+﻿[Event "Norfolk/Suffolk Cup Final"]
+[Site "?"]
+[Date "2018.09.08"]
+[Round "?"]
+[White "Jermy, Jaden"]
+[Black "Pullinger, Stephen"]
+[Result "*"]
+[ECO "A80"]
+[WhiteElo "165"]
+[BlackElo "179"]
+[PlyCount "141"]
+[SourceDate "2018.09.14"]
+[SourceVersionDate "2018.09.14"]
+[WhiteTeam "Bury St Edmunds"]
+[BlackTeam "Broadlands"]
+
+1. d4 e6 2. Nf3 b6 {[JJ] Last time we played each other we had the same
+Queen's Indian opening.} 3. Bf4 (3. e4 Bb7 4. Bd3 c5 5. c3 Nf6 6. Qe2 Be7 7.
+O-O {is the most popular continuation for White, but Black has achieved some
+good results with 7...d5!?}) 3... Bb7 4. Nbd2 f5 (4... d6 5. e3 Nd7 6. Bd3 h6
+7. c3 Ngf6 {was played in the game Radjabov,T (2784)-McShane,L (2706) Moscow
+2012. Here e4 followed by h3, would have given White control of the centre and
+the dark-squared bishop a safe haven.}) 5. e3 Nf6 6. Bd3 Be7 7. O-O O-O 8. c4
+$6 {[JJ] Last time we played I played c3, but this time I wanted to go for a
+more aggressive approach.} (8. c3 Nh5 9. Be5 $5 d6 10. Bf4 {now if} Nxf4 11.
+exf4 {[%csl Ge6] Black's e6 pawn is weak.}) 8... Nh5 $1 9. h3 $6 {[JJ] I saw a
+chess Grandmaster talking about the London System on a YouTube video, who
+explained that the resulting pawn structure was ok and gives White control of
+e5.} Nxf4 (9... Nc6) 10. exf4 Na6 $5 {[JJ] I was quite surprised by this move.
+I was expecting Nc6 or even c5.} (10... c5 11. d5 exd5 12. cxd5 Bxd5 13. Bc4
+Bxc4 14. Nxc4 d5 15. Nce5 $44) (10... Nc6 11. d5 $11) 11. Qb3 c5 12. d5 Nb4 {
+[JJ] I saw a tactical attack because his king was on the weak light square
+diagonal.} 13. Rfe1 $6 ({Preserving remaining bishop was best.} 13. Be2 exd5
+14. a3 {a nice intermezzo.} Na6 15. cxd5 $14) 13... exd5 $6 (13... Nxd3 14.
+Qxd3 Bf6 $15 {Black's bishop pair are ready to pounce.}) 14. cxd5 Bxd5 15. Bc4
+Bxc4 16. Nxc4 d5 17. Rad1 {[JJ] I felt like I had rapid development.} Qc7 $2 ({
+A much stronger move for Black would have been} 17... b5 $1 {resulting in a
+bizarre and unclear position!} 18. Ne3 c4 19. Qc3 $13) 18. Nce5 Kh8 $4 (18...
+c4 19. Qa4 $14) 19. a3 c4 20. Qa4 $2 ({Even better was} 20. Qc3 $1 $18 {
+now the knight has to retreat (20...Nd3 loses a whole piece.) and White's
+pieces run rampage.}) 20... Nd3 21. Nxd3 cxd3 22. Rxd3 {[JJ] I felt like I was
+in a winning position.} Qc4 23. Rd4 ({The computer finds a nice way to
+maintain an advantage, although it's almost impossible for a human to foresee
+that the resulting endgame favours White.} 23. Qd1 $1 Bf6 24. Qd2 Bxb2 25. Ne5
+$1 Bxe5 26. fxe5 $16 {Despite being a pawn down, White's approximately +1 due
+to good piece coordination and more importantly an extremely dangerous passed
+e-pawn.}) 23... Qxa4 24. Rxa4 Bf6 25. Ne5 $1 {Jaden plays an excellent knight
+move. Normally bishops are better than knights in open positions, but this
+situation is different as White's knight is commanding the centre of the board.
+If the bishop trades itself for the knight, then White effectively gains an
+extra (passed) pawn.} Rfc8 26. b3 {It would have been better to improve the
+position of the e-rook.} (26. Rd1 Rc2 27. b4 $16 {and Black has to concede
+either the a or d pawn.}) 26... Rc7 27. Rd4 Rd8 28. Red1 g5 $2 {28...Kg8 would
+have been a much calmer approach for Black. Jaden now shows his raw talent by
+playing the endgame very naturally. Note how all of his pawns end up on
+light-squares so that Black's bishop becomes frustrated that it can't gobble
+any up.} 29. Rxd5 Rxd5 30. Rxd5 gxf4 31. Nc4 Rc5 32. Rxc5 bxc5 33. Nd6 Bb2 34.
+a4 Kg7 35. Nxf5+ Kf6 36. Nd6 Ke6 37. Nc4 Bf6 38. Kf1 Kd5 39. Ke2 Kd4 40. Kd2 {
+[JJ] At this point I had 29 mins on my clock and my opponent had 4 mins.} Bh4
+41. f3 {[%csl Ga4,Gb3,Gf3,Gg2,Gh3]} Bf2 42. Na5 Kd5 43. Kd3 h5 44. Nc4 Bd4 45.
+Nd2 Be3 46. Ne4 Bd4 47. g3 fxg3 48. Nxg3 h4 49. Nf5 Bf2 50. f4 a5 51. Ne3+ Ke6
+52. Nd1 Bd4 53. Ke4 Kf6 54. Ne3 Ke6 55. f5+ Kf6 56. Nd5+ Kg5 57. Nf4 Kf6 58.
+Nd3 Kg5 59. Ne1 Kf6 60. Nf3 Bf2 61. Kf4 Bg3+ 62. Kg4 Bf2 63. Nxh4 Bxh4 64. Kxh4
+Kxf5 65. Kg3 Ke4 66. h4 Kd3 67. h5 Kc3 68. h6 Kxb3 69. h7 Kxa4 70. h8=Q Kb3 71.
+Kf3 {Black finally realises his fate!} *
+
