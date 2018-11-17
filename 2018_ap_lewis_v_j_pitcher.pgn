@@ -1,0 +1,64 @@
+﻿[Event "4NCL 2018-19: Div 2"]
+[Site "?"]
+[Date "2018.11.10"]
+[Round "1.1"]
+[White "Lewis, Andrew P"]
+[Black "Pitcher, John"]
+[WhiteElo "2327"]
+[BlackElo "2250"]
+[Result "1-0"]
+[ECO "A30"]
+[Annotator "(c) Andy Lewis 2018"]
+[PlyCount "86"]
+[EventDate "2018.07.09"]
+[WhiteTeam "Anglia Avengers"]
+[BlackTeam "Warwickshire Select"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 Ne4 8. d4
+Nxc3 9. bxc3 Be4 10. Bf1 ({I had reached this position earlier this year
+against a fellow Anglian Avenger. That game continued in dynamic fashion:} 10.
+Bh3 $5 O-O 11. Nd2 Bb7 12. e4 d6 13. d5 e5 14. a4 Bc8 15. Bg2 Bg5 16. f4 $5 $44
+{Lewis,A-Mayhew,A SCCU: Kent v Essex 2017 [2] 1/2-1/2}) 10... Bxf3 $5 {This
+move is not well regarded in two recent books which I own on the English
+Opening (Zenon Franco 2006 & Carsten Hansen 2018). Following the game, I am
+less sure about this assessment.} 11. exf3 cxd4 $5 {A pragmatic decision.
+Black contents himself with only a small structural advantage in return for
+the 2Bs. But on the other hand, side-steps potential space-stealing options
+for White involving Pd5.} (11... O-O 12. d5 $5 $36) 12. cxd4 O-O 13. f4 Nc6 14.
+Be3 (14. d5 {is less dangerous after the exchange ...c5xd4, as Black will have
+ample counterplay against Pc4: eg.} Na5 15. Bd2 Rc8 16. Bxa5 bxa5 17. Rb1 Bc5
+18. Qd3 $11 {Savchenko,S (2595)-Gurevich,V (2435) Ubeda op 3rd 1998 (2) 1/2-1/2
+}) 14... Rc8 15. Rc1 (15. Qa4 Qc7 16. Rac1 Bf6 17. c5 bxc5 18. Rxc5 Qd6 19. Rd1
+Ne7 20. Qa6 Qxa6 21. Bxa6 Rxc5 22. dxc5 Nd5 23. Bc1 $11 {Moor,R (2337)-Toth,B 
+(2311) SUI-chT Switzerland 2009 (4.6) 1-0}) 15... Ba3 $5 16. Rb1 (16. Rc2 $143
+Bb4 {leaves the White Rs misplaced.}) 16... Bb4 17. Re2 Be7 {The unusual B
+"shimmy" (...Be7-a3-b4-a3) hasn't gained much for Black - but hasn't lost much
+either!} 18. Qa4 Qc7 19. Rc2 Na5 20. Rcc1 (20. Rbc1 Qc6 {forces the exchange
+of Qs.}) 20... Rfd8 21. h4 $5 (21. c5 $5) 21... Qc6 22. Qd1 d5 {A nicely timed
+P-advance. If ...d5 had been played without adequate preparation, it would
+have allowed the destabilizing Pf5. And yet the "improvement" in Black's
+structural advantage, only serves to increase the power of White's 2Bs.} 23.
+cxd5 $6 (23. c5 $142 bxc5 24. dxc5 $14) 23... Qxd5 {[#] It is hard to believe
+that the beleagured Pd4 is going to win the game for White in 10 moves times -
+yet this is precisely what happens!} 24. Qa4 g6 25. Rb5 Qd6 26. Rxc8 Rxc8 27.
+f5 $5 {Described as a "creative" move in the post-match debrief in the Asia
+Tandoori. Perhaps the 2 bottles of wine improved my team-mates perception of
+this idea!} exf5 (27... gxf5 {gives White obvious compensation for the P by
+way of the weakened Black K-side: eg.} 28. d5 e5 29. Bd3 $44) 28. Bf4 Qa3 $6 (
+28... Qd8 $142 {with a likely draw after:} 29. Rb1 Bd6 30. Bg5 Be7 31. Bh6 Bf8
+32. Bf4 $11) 29. Qxa3 Bxa3 30. Rd5 Nc6 $2 ({It was still not too late to
+contain White's advantage to managable proportions with:} 30... Be7 $142 $1 {
+eg.} 31. Rd7 Bf6 32. d5 Rd8 33. Rxa7 Rxd5 34. Bh6 Rd8 35. Bb5 $14) 31. Rd7 Rd8
+$2 {[#] A position which both sides had been playing for after the Q exchange.
+Unfortunately, Black had overlooked a key tactical detail!} ({Even the best
+move:} 31... a5 $142 {leaves Black with a miserable position (eg) after:} 32.
+Bc4 Nd8 33. Ba6 Ra8 34. d5 $16) 32. d5 $1 Rxd7 33. dxc6 Rd8 34. c7 Rc8 35. Ba6
+$18 {Most players would resign at this point: so why is White playing on?
+Perhaps because in our previous game (in 2007) I had played on in a hopeless
+endgame for 30 moves. If so, I was more than happy to give him his revenge!}
+Rxc7 36. Bxc7 Bc5 37. Bb8 Kf8 38. Bxa7 Ke7 39. Bb8 f6 {Even in an utterly won
+position, one should still guard against complacency. Here, I could envision a
+position after ...h6 & ...g5 in which the B is entombed on b8. Even then,
+White should still be able to win: but better to play a move which ensures the
+win is trivial.} 40. Bf4 Kd8 41. Bc4 Be7 42. Be3 Kc7 43. Bg8 Z0 {Black
+resigned.} (43... h5 44. Bf7 {wins at least 2Ps.}) 1-0
