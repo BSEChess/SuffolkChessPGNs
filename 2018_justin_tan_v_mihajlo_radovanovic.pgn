@@ -1,0 +1,51 @@
+﻿[White "Tan, Justin"]
+[Black "Radovanovic, Mihajlo"]
+[Event "Paracin Open"]
+[Site "chess24.com"]
+[Result "1-0"]
+[Round "4.2"]
+[WhiteElo "2481"]
+[BlackElo "2402"]
+[ECO "B91"]
+[Date "2018.07.09"]
+[Annotator "Tan,Justin"]
+[PlyCount "85"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Australia"]
+[BlackTeam "Serbia"]
+[WhiteTeamCountry "AUS"]
+[BlackTeamCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. g3 g6 5. Bg2 Bg7 6. d4 cxd4 7. Nxd4 Nf6 8. 0-0 0-0 
+9. h3 Nc6 10. Be3 Bd7 11. Nd5 Rc8 12. Ne2 {I was happy to get to this position - 
+White has a stable positional edge.} Be6 $6 (12... Nxd5 13. exd5 Na5 14. Bd4 $14 
+{was my preparation.} ) 13. Nb6 ({The computer wants to play}13. b3 {with the aim 
+to create a bind with c2-c4.} ) Rb8 14. Nf4 Bd7 (14... Nd7 15. Nxe6 fxe6 16. Nxd7 
+Qxd7 17. c3 $14 ) 15. a4 Ne5 16. Qe2 (16. a5 Bc6 17. Nfd5 $14 ) Bc6 17. Nfd5 Ned7 
+18. a5 e6 19. c4 $6 {Both my opponent and I overlooked a tactical defence for Black 
+which leads to immediate equality.} ({ I felt that the position required me to keep 
+the tension however}19. Nxf6+ Qxf6 20. Nxd7 Bxd7 21. c3 {gives White a pleasant 
+edge still, as Black's d6-pawn is weak and his position is somewhat cramped.} ) 
+exd5 $2 (19... Nxe4 $1 20. Bxe4 exd5 21. Nxd5 Re8 22. Bg2 Nf6 $11 ) 20. exd5 Nxb6 
+({It was probably necessary to return the piece with}20... Nxd5 21. Nxd5 $14 {although 
+psychologically it is very difficult to enter such an unpleasant position.} ) 21. 
+dxc6 $1 (21. Bxb6 $2 Qe8 $1 22. Qc2 (22. Qxe8 Bxe8 23. Bc7 Rc8 24. Bxd6 Rxc4 $15 
+) Bd7 23. Bc7 Bf5 24. Qb3 Qe7 $17 ) Na8 (21... Nc8 22. cxb7 Ne7 23. Ba7 Qc7 24. 
+Bxb8 Rxb8 25. c5 d5 26. Qxa6 Rxb7 27. Qd6 Qc8 28. a6 Ra7 29. Rfe1 Nc6 30. Ra4 $16 
+) 22. cxb7 Nc7 23. Ba7 Ne6 (23... Re8 24. Qd3 d5 25. Bxb8 Qxb8 26. cxd5 $18 ) (23... 
+d5 24. Bxb8 Qxb8 25. cxd5 Qxb7 26. d6 Qb5 27. Bf3 Qxe2 28. Bxe2 $18 ) 24. c5 $1 
+d5 (24... Nxc5 25. Bxc5 dxc5 26. Rfd1 Nd7 27. Qxa6 Bxb2 28. Ra2 Bd4 29. Qd6 $18 
+{and the queenside passers are far too strong.} ) 25. Qxa6 Ne4 26. Bxe4 dxe4 27. 
+Rad1 Bd4 28. c6 e3 29. Qc4 Bxa7 30. Rxd8 Rbxd8 31. fxe3 ({Also winning but unnecessarily 
+complicated was}31. c7 Nxc7 32. Qxc7 e2 33. Re1 Rd1 34. Qc3 Bd4 35. Qb4 Bc5 36. 
+b8Q Rxb8 37. Qxb8+ Bf8 38. Kg2 Rxe1 39. Kf3 $18 ) Bxe3+ 32. Kh1 Nc7 33. b4 Rd5 34. 
+Qb3 Ba7 35. Rd1 Rfd8 36. Rxd5 Rxd5 37. Qe3 {I was low on time and decided to go 
+for the 'unspectacular' win despite the fact that I had calculated the Queen sacrifice 
+37.Qxd5!? to the win. This wasn't a great decision considering the game lasted a 
+little longer than anticipated.} (37. Qxd5 Nxd5 38. b5 Bb8 39. b6 Kf8 40. a6 $1 
+Nxb6 41. c7 Bxc7 42. a7 {was a beautiful line which did impress me during the game 
+alas...} ) Bb8 38. h4 (38. a6 Nxa6 39. b5 Rxb5 40. Qd3 $18 ) Kg7 39. Qb6 Rd1+ 40. 
+Kg2 Nd5 41. Qc5 Rd3 42. a6 Bxg3 (42... Rxg3+ 43. Kf2 (43. Kf1 Rd3 44. a7 $18 ) Rd3 
+44. a7 Bg3+ 45. Kg2 Nf4+ 46. Kh1 Rd1+ 47. Qg1 $18 $1 ) 43. Qxd5 {A nice finishing 
+touch!}  1-0
+
