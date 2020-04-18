@@ -1,0 +1,92 @@
+﻿[Event "4NCL Online Division 1"]
+[Site "online"]
+[Date "2020.04.07"]
+[Round "1.131"]
+[White "Cooper, Gavyn"]
+[Black "Kanellopoulos, Panayotis"]
+[Result "0-1"]
+[ECO "E93"]
+[WhiteElo "2230"]
+[BlackElo "2265"]
+[Annotator "(c) AP Lewis 2020"]
+[PlyCount "114"]
+[EventDate "2020.04.07"]
+[WhiteTeam "Shropshire 1"]
+[BlackTeam "Anglian Avengers 1"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Na6 {A reasonable
+alternative to the stereo-typed 6...e5. Panagotis is a specialist in this line.
+} 7. h3 $5 {An unusual move order. The Kavalev system (6 Ph3) is more commonly
+seen in combination with an early Be3 rather than Be2.} e5 8. d5 Nc5 $5 ({
+Black's unusual move order has bourne immediate fruits. He has an
+unproblematic equality with:} 8... Nh5 $1 9. g3 (9. Nh2 Nf4 10. Bf3 Nc5 $15)
+9... f5 10. exf5 gxf5 11. Bg5 Nf6 $11 {Bachmann,A (2644)-Giri,A (2745)
+Olympiad-41 Tromsoe 2014 (11.1) 0-1}) 9. Qc2 a5 10. Be3 b6 11. Nd2 Bd7 12. g4
+a4 13. Nf1 {The KID is a tough gig! A lot of experience is required to
+understand that this seemingly natural N move throws away most of White's
+advantage. Rather than ...Pf5, Black is aiming for Q-side play with ...Pc6, ...
+cxd5 and an eventual ...Pb5. To hold up Black's counterplay, Nd2 needs to be
+on the Q-side, either to go to c4 or (via b1 & a3) to b5.} (13. O-O-O $142 c6
+14. g5 Ne8 15. h4 $14) 13... c6 14. Ng3 {The move holds up ...Pf5 - which
+Black does not have the least intention of playing!} cxd5 15. cxd5 Ra5 $5 {
+An interesting approach to forcing P...b5.} (15... Qb8 $11 {has a similar
+intention.}) 16. O-O b5 17. Rfc1 $6 ({White does better to challenge Black's
+Q-side initiative with:} 17. b4 $142 axb3 18. axb3 b4 19. Na4 Bxa4 20. bxa4 b3
+21. Qb1 $11) 17... b4 18. Nd1 Qb8 ({Even better is:} 18... b3 $142 $17 {
+forcing the creation of a target: Pb2.}) 19. Qb1 Rc8 {White's opening strategy
+has been a fiasco. Black has an initiative on the Q-side, and White's K-side
+P-advances have only created weakness in White's position!} 20. f3 Ne8 {
+Not with the intention of ...Pf5. The N is heading for d4.} 21. Nf2 Bf6 22. Nf1
+Nc7 23. Nd2 Nb5 24. Kg2 Ra8 ({There is nothing wrong with the immediate:} 24...
+Nd4 $15) 25. Nc4 $6 (25. Nd3 $142 Nd4 26. Nxc5 dxc5 27. Bd3 $11) 25... Nd4 $15
+{When a Black N reaches this square in the K.I.D. without material loss - it's
+a sign that something has gone seriously wrong for White!} 26. Bf1 b3 27. Bxd4
+({It is impossible to lock up the Q-side with:} 27. a3 Nc2 $19 {wins the
+exchange.}) 27... bxa2 {Natural enough: ensuring that Pb2 is a fixed target.} (
+{Equally good was:} 27... exd4 28. a3 Bb5 $19 29. Z0 $140 Bg5) 28. Rxa2 exd4 {
+Again, when in the K.I.D, White needs to give up his dark-squared-B to capture
+a N on d4, it's generally a sign that the game is proceeding in Black's favour.
+} 29. b4 {A bid for freedom - which just losses the b-P!} (29. Z0 $140 Nb3 $19
+{leaving Ra2 stranded.}) 29... Nb3 (29... axb3 $143 30. Rxa8 Qxa8 31. Nb6 $44)
+30. Rcc2 Qxb4 $19 {Black has a won position, with an extra-P, the 2-Bs, and an
+active postion. It's just a shame he has almost no time left!} 31. Nd3 Qb8 32.
+f4 $5 {A brave move. With passive moves, White has no realistic chance of
+holding the position. With Pf4 he at least asserts the one positive aspect of
+his position: his K-side majority.} Bg7 33. Qe1 (33. g5 $5 Bb5 $19) 33... Bb5
+34. Nb4 Bxc4 $6 {Giving up part of his advantage: Black does better to
+preserve the pressure on Nc4.} (34... Re8 $19) (34... Nc5 $19) 35. Bxc4 Nc5 36.
+Nc6 Qc7 (36... Qb7 $5) 37. Rd2 Re8 38. Re2 a3 39. Kf3 {After achieving my own 
+(fortuitious) victory in R1, this is the point at which I started watching the
+game. The conclusion was a thriller, both players have less than 2 minutes on
+the clock.} Qb7 ({A standard idea to achieve black-square domination is:} 39...
+g5 $5 {and after:} 40. fxg5 (40. e5 gxf4 41. e6 {does not work as Nc6 is en
+pris.} fxe6 $17) 40... Nd7 {only Black can be better.}) 40. e5 {Another brave
+move, but unless White asserts his central-majority, he just has a bad
+position.} (40. Z0 $140 Ra4 {is an awkward threat to meet.}) 40... dxe5 (40...
+Ra4 $143 41. exd6 Rxe2 42. Qxe2 {gives White better defensive resources.}) 41.
+fxe5 Ra4 42. Qc1 d3 43. Re1 Nd7 $5 {Even with a won position, it is still
+difficult to see a way through to the win in such a complex position.} ({
+With the benefit of more time, it's easy to see that:} 43... d2 $1 44. Rxd2 Bh6
+$19 {is an easily won position.}) 44. Qc3 Nxe5+ 45. Nxe5 Rxe5 $1 ({The
+accurate move order was:} 45... d2 $1 46. Rxd2 Rxe5 47. Rxe5 Bxe5 48. Qxe5 Rxc4
+$19 {preserving the powerful Pa3.}) 46. Rxe5 Bxe5 47. Qxe5 (47. Qxd3 Qb4 48.
+Rc2 a2 49. Bxa2 Qf4+ 50. Ke2 Re4+ 51. Kd1 Rd4 $19) 47... Rxc4 48. Rxa3 d2 49.
+Rd3 d1=Q+ $6 ({The amazing:} 49... Qb3 $1 {forces victory after:} 50. Qe8+ (50.
+Rxb3 d1=Q+ $19) 50... Kg7 51. Qe5+ Kf8 $1 52. Qh8+ Ke7 53. Qe5+ Kd7 $19 {
+White has run out of checks!}) 50. Rxd1 Qb3+ 51. Kf2 $4 {Finally, White cracks:
+the combination of a long-game, a fast time-limit and the need to continuous
+calculate Black's tactical threats.} ({During the game, I wasn't sure at all
+how Black would proceed after the more testing:} 51. Ke2 {Black is better -
+due to the exposed White K but there is no immediate forced checkmate sequence,
+and the passed Pd5 presents some dangers for Black. I suspect the game would
+end up in a draw.} {The seemingly overwhelming:} Qc2+ (51... Qxh3 52. Qe8+ Kg7
+53. Qe5+ f6 54. Qe7+ Kh6 (54... Kg8 55. Qe8+ {etc.}) 55. Qe3+ Qxe3+ 56. Kxe3
+Kg5 57. d6 Rc8 58. Kd4 Kxg4 59. Rg1+ $13 {is an interesting endgame to analyse.
+}) (51... Qb4 $5 $40) 52. Rd2 Re4+ {Leads to a tenable endgame after:} 53. Kf3
+$1 Rxe5 54. Rxc2 Rxd5 $15) 51... Qxd1 (51... Rc2+ 52. Kg1 Qxh3 53. Qe8+ Kg7 54.
+Qe5+ f6 55. Qe7+ Kh6 56. Qf8+ Kg5 $19) 52. Qe8+ {Notwithstanding appearances,
+the White-Q cannot deliver a perpetual check.} Kg7 53. Qe5+ f6 ({Equally good
+is:} 53... Kh6 54. g5+ (54. Qe3+ g5 55. Qb6+ Kg7 56. Qb2+ Qd4+ $19) 54... Kh5
+$19) 54. Qe7+ Kh6 55. Qf8+ Kg5 56. h4+ Kxg4 57. Qc8+ $6 {A joke move. But many
+blitz games have been salvaged by such knavery!} Rxc8 0-1
+
